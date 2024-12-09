@@ -26,7 +26,7 @@ class NumberGridView extends StatelessWidget {
             Container(
               alignment: Alignment.center,
               decoration: BoxDecoration(
-                color: Colors.black, // Card background color
+                color: Colors.pink, // Card background color
                 borderRadius: BorderRadius.circular(10), // Rounded corners
               ),
               child: Text(
