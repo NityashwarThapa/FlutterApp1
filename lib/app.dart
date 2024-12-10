@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:project_flutter/view/dynamic_card_view.dart';
 import 'package:project_flutter/view/number_grid_view.dart';
 // import 'package:project_flutter/view/grid_view.dart';
 
